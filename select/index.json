@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シェーマ",
+  "base_artist": "Chinozo",
+  "createdAt": "2026-01-09T14:56:39.676605Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シェーマ",
+      "artist": "Chinozo",
+      "has_synced": false,
+      "path": "select/pl_01_シェーマ_Chinozo.txt"
+    }
+  ]
+}
